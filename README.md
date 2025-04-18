@@ -1,5 +1,5 @@
 - Download proyect
 - Opens a terminal in the project folder
-- Execute "npm install"
+- Execute "composer install"
 - Create .env file and add the environment variables "URL_API_FACTURA_COM", "API_KEY_FACTURA_COM", "SECRET_KEY_FACTURA_COM"
 - Execute "php artisan serve --port=8008"
